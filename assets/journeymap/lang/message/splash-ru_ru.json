@@ -1,0 +1,30 @@
+{
+  "lines": [
+    {
+      "label": "Максимальный масштаб увеличен!"
+    },
+    {
+      "label": "Webmap теперь является отдельным модом.",
+      "action":"dialog.FullscreenActions#webmapDownloadCF"
+    },
+    {
+      "label": "Пользовательский интерфейс цветовой палитры",
+      "action": "colorpalette.ColorPaletteScreen"
+    },
+    {
+      "label": "Фильтры карт",
+      "action": "option.ClientOptionsManager#MapFilters"
+    },
+    {
+      "label": "Новые темы!"
+    },
+    {
+      "label": "Новый менеджер контрольных точек незавершенного производства",
+      "action": "waypointmanager.WaypointManager"
+    },
+    {
+      "label": "Плюс еще много обновлений!",
+      "action": "dialog.FullscreenActions#changeLog"
+    }
+  ]
+}
